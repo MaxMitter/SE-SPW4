@@ -56,5 +56,4 @@ public class Permutation {
         }
         return true;
     }
-
 }
